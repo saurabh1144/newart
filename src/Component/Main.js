@@ -37,7 +37,7 @@ function Main() {
               with IoT enabled control panel.
             </li>
           </ul>
-          <img src={group} />
+          <img src={group} alt="img" />
           <label>
             Government of India has awarded the  <b>"National Energy Conservation
             Award 2018".</b> Mr. G. Selvaraj, Joint Managing Director of C.R.I.
@@ -52,7 +52,7 @@ function Main() {
       </div>
 
       <div className="equip">
-        <img src={quip}/>
+        <img src={quip} alt="img"/>
         
       </div>
       <label className="names">Valves - Pumps - Pipes - IoT Drives & Controllers - Wires & Cables - Solar Systems - Motors </label>
